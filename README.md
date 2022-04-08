@@ -1,6 +1,6 @@
 ## Pande Muliada - @pandemuliada
 
-Hi there 👋, I'm Muliada Frontend Web Developer from Bali, Indonesia. Interested and focused on Frontend Development. Sometimes I also write on my [personal blog](https://pandemuliada.netlify.app/) in Bahasa Indonesia. My hobby? creating bugs i guess 😆.
+Hi there 👋, I'm Muliada Frontend Web Developer from Bali, Indonesia. Interested and focused on Frontend Development. Sometimes I also write on my [personal blog](https://pandemuliada.vercel.app/) in Bahasa Indonesia. My hobby? creating bugs i guess 😆.
 
 #### 🌱 I’m currently learning
 
@@ -11,6 +11,7 @@ Hi there 👋, I'm Muliada Frontend Web Developer from Bali, Indonesia. Interest
 - React & NextJS
 - Firebase
 - Node JS
+- Strapi
 
 <!---
 - 👯 I’m looking to collaborate on ...
