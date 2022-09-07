@@ -21,7 +21,8 @@ Hi there 👋, I'm Muliada Frontend Web Developer from Bali, Indonesia. Interest
 
 #### 📫 How to reach me
 
-- 📧 pandemuliada@gmail.com
+[Email](mailto:pandemuliada@gmail.com)
+[Telegram](http://t.me/pandemuliada)
 
 <!---
 - 😄 Pronouns: ...
