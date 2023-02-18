@@ -4,14 +4,15 @@ Hi there 👋, I'm Muliada Frontend Web Developer from Bali, Indonesia. Interest
 
 #### 🌱 I’m currently learning
 
-- Flutter
+- Deployment
 
 #### ⚡ I'm usually working with :
 
-- React & NextJS
+- ReactJS & NextJS
 - Firebase
-- Node JS
+- Supabase
 - Strapi
+- Node JS
 
 <!---
 - 👯 I’m looking to collaborate on ...
