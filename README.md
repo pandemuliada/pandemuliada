@@ -1,31 +1,28 @@
-## Pande Muliada - @pandemuliada
+### Hi there 👋, I'm Muliada
 
-Hi there 👋, I'm Muliada Frontend Web Developer from Bali, Indonesia. Interested and focused on Frontend Development. Sometimes I also write on my [personal blog](https://stories.pandemuliada.com/) in Bahasa Indonesia. My hobby? creating bugs i guess 😆.
+Building web products from Bali, Indonesia. Tech Lead at [Gripa Studio](https://gripastudio.com) — still hands-on with code every day, mostly by directing a fleet of AI coding agents.
 
-#### 🌱 I’m currently learning
+#### 🚀 What I'm focused on
 
-- Deployment
+- Shipping web apps with **Next.js + Hono + Supabase + Inngest**
+- Orchestrating AI coding agents (Claude, Codex, OpenCode) & MCP servers
+- Automating the boring parts with n8n and other automations
 
-#### ⚡ I'm usually working with :
+#### ⚡ I usually work with
 
-- ReactJS & NextJS
-- Firebase
-- Supabase
-- Strapi
-- Node JS
+- AI (yes AI!)
+- React & Next.js, TypeScript
+- Hono, Node.js, Supabase
+- Cloudflare, Vercel, Docker
+- CMS (any kind basically)
 
-<!---
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+#### 📝 Sometimes I write
 
-####  📫 How to reach me
+- [stories.pandemuliada.com](https://stories.pandemuliada.com/) — in Bahasa Indonesia
+
+My hobby? Still creating bugs — now mostly reviewing the ones my agents create 😆
+
+#### 📫 How to reach me
 
 - [Email](mailto:pandemuliada@gmail.com)
 - [Telegram](http://t.me/pandemuliada)
-
-<!---
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
