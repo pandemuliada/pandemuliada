@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muliada
 
-Building web products from Bali, Indonesia. Tech Lead at [Gripa Studio](https://gripastudio.com) — still hands-on with code every day, mostly by directing a fleet of AI coding agents.
+Building web products from anywhere basically but currently stay in Bali, Indonesia. Tech Lead at [Gripa Studio](https://gripastudio.com) — still hands-on with code every day, mostly by directing a fleet of AI coding agents.
 
 #### 🚀 What I'm focused on
 
