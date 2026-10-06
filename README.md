@@ -1,20 +1,28 @@
 ### Hi there 👋, I'm Muliada
 
-Building web products from anywhere basically but currently stay in Bali, Indonesia. Tech Lead at [Gripastudio](https://gripastudio.com) — still hands-on with code every day, mostly by directing a fleet of AI coding agents.
+Building web products from anywhere basically but currently stay in Bali, Indonesia. Tech Lead at [Gripastudio](https://gripastudio.com) — still hands-on with code every day, but ekhem... with AI now, started out in frontend; I now ship full-stack, run my own infra, and spend a suspicious amount of time directing AI coding agents for building something.
 
 #### 🚀 What I'm focused on
 
 - Shipping web apps with **Next.js + Hono + Supabase + Inngest**
-- Orchestrating AI coding agents (Claude, Codex, OpenCode) & MCP servers
-- Automating the boring parts with n8n and other automations
+- Orchestrating AI coding agents (Claude Code, Codex, OpenCode) & custom MCP servers
+- Self-hosting the whole stack: Proxmox, Coolify, Cloudflare, Tailscale
+- Automating the boring parts of work & life with Hermes (and a lot of cron jobs)
 
 #### ⚡ I usually work with
 
-- AI (yes AI!)
-- React & Next.js, TypeScript
-- Hono, Node.js, Supabase
-- Cloudflare, Vercel, Docker
-- CMS (any kind basically)
+`AI (yes, mentioning this first is a must)` `TypeScript` `React` `Next.js` `Hono` `Node.js` `Supabase` `CMS (any kind)` `Cloudflare` `Vercel` `Docker` `n8n`
+
+#### 🚴 Off the clock
+
+- Cycling around Bali — Gianyar → Sanur is the home loop — slowly working up to a 100 km ride. Otherwise: buried in books, webnovels, mangas or tinkering with things that didn't need tinkering with.
+- Self hosting anything and automate mostly everything what I can automate in life — thanks to my Hermes agent & n8n!
+
+#### 🚴 Off the clock
+
+- **Cycling and Touring around Bali** — Gianyar → Sanur is the home loop — slowly working up to a 100 km ride
+- **Automating my life** — if I have to do it twice, it becomes a script and AI manage it for me
+- Otherwise: buried in books, webnovels, mangas or tinkering with things that didn't need tinkering with.
 
 #### 📝 Sometimes I write
 
