@@ -15,13 +15,8 @@ Building web products from anywhere basically but currently stay in Bali, Indone
 
 #### 🚴 Off the clock
 
-- Cycling around Bali — Gianyar → Sanur is the home loop — slowly working up to a 100 km ride. Otherwise: buried in books, webnovels, mangas or tinkering with things that didn't need tinkering with.
-- Self hosting anything and automate mostly everything what I can automate in life — thanks to my Hermes agent & n8n!
-
-#### 🚴 Off the clock
-
 - **Cycling and Touring around Bali** — Gianyar → Sanur is the home loop — slowly working up to a 100 km ride
-- **Automating my life** — if I have to do it twice, it becomes a script and AI manage it for me
+- **Automating my life** — if I have to do it twice, it becomes a script and AI manage it for me, thanks to my Hermes agent & n8n!
 - Otherwise: buried in books, webnovels, mangas or tinkering with things that didn't need tinkering with.
 
 #### 📝 Sometimes I write
